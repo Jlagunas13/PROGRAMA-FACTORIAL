@@ -1,2 +1,2 @@
 # PROGRAMA-FACTORIAL
-Programa Factorial
+Lagunas Parra Jaime Rodrigo
